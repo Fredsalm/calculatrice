@@ -1,0 +1,42 @@
+.calc{
+	background-color: #C0C0C0;
+	display: inline-flex;
+	padding: 10px;
+	border:solid black 1px;
+	justify-content: space-around;
+	display: inline-block;
+
+}
+
+.row1{
+	
+	align-content: space-around;
+	justify-content: space-around;
+
+
+}
+
+.row2{
+	display: inline-flex;
+	justify-content: space-around;
+	flex-grow: 2;
+	
+
+}
+
+.row3{
+	
+	
+}
+
+.row4{
+	
+	
+
+}
+
+.row5{
+	
+	
+
+}
