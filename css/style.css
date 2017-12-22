@@ -1,26 +1,20 @@
 body{
 	font-size: 2em;
 }
-
 .btnCorrec .display: {
 	
 }
-
 .calc{
 	background-color: #C0C0C0;
 	padding: 30px;
 	border:solid black 1px;
 	justify-content: center;
 	display: inline-block;
-	
-
 }
 
 .btn1, .btn2, .btn3, .btn4, .btn5, .btn6, .btn7, .btn8, .btn9, .btn0, .btnCorrec, .btnAdd, .btnSous, .btnMul, .btnDiv, .btnVirg, .btnEgal{
 	padding: 20px;		
 margin-top: 0px;
-
-
 }
 
 .row1{
@@ -30,14 +24,13 @@ margin-top: 0px;
 
 .row2, .row3, .row4, .row5{
 	padding: 7px;
-	
-
-	
-
 }
-
 
 .dis{
 	padding-top: 20px;
 	padding-bottom: 20px;
+}
+.display{
+	background-color: white;
+	border:solid black 1px;
 }
